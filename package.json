@@ -1,5 +1,5 @@
 {
-  "name": "koa-mongoose",
+  "name": "@si02/koa-mongoose",
   "version": "1.0.10",
   "description": "Mongoose middleware for koa",
   "main": "index.js",
@@ -36,5 +36,5 @@
   },
   "directories": {
     "test": "test"
-  },
+  }
 }
